@@ -11,7 +11,7 @@ Manual analysis of five real-world phishing and scam emails, with one report per
 
 ## Summary
 
-| # | Verdict | Key indicators | Domains checked (VirusTotal, 2026-11-06) |
+| # | Verdict | Key indicators | VirusTotal (2026-11-06) |
 |---|---------|----------------|------------------------------------------|
 | 1 | Phishing: prize scam (retail brand lure) | From domain differs from Return-Path domain; SPF, DKIM, DMARC all none | not checked |
 | 2 | Suspicious spam / scam | Sent through a bulk-mail service with authentication passing; attachment with empty-content SHA-256 | internetcampus[.]org: 11/92 |
